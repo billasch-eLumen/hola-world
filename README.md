@@ -1,2 +1,3 @@
 # hola-world
-first one at eLumen
+Just firing up a gitHub account for fun and giggles.
+Res Ipsa Loquitur
